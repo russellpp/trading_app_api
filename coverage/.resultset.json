@@ -1,177 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/models/role.rb": {
-        "lines": [
-          1,
-          1,
-          1,
-          null
-        ]
-      },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/models/user.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          null,
-          null,
-          null,
-          1,
-          0,
-          0,
-          null,
-          null,
-          null,
-          1,
-          0,
-          0,
-          null,
-          null,
-          null,
-          null,
-          1,
-          0,
-          0,
-          0,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          0,
-          0,
-          null,
-          null,
-          0,
-          0,
-          null,
-          0,
-          0,
-          null,
-          0,
-          null,
-          null,
-          null,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          null,
-          0,
-          null,
-          null,
-          0,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/models/user/authentication.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          null,
-          1,
-          0,
-          0,
-          0,
-          null,
-          null,
-          0,
-          0,
-          null,
-          null,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          null,
-          0,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          0,
-          0,
-          0,
-          null,
-          0,
-          0,
-          null,
-          null,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          null,
-          0,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          1,
-          0,
-          0,
-          0,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/models/user_role.rb": {
-        "lines": [
-          1,
-          1,
-          1,
-          null
-        ]
-      },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/channels/application_cable/channel.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/channels/application_cable/channel.rb": {
         "lines": [
           0,
           0,
@@ -181,7 +11,7 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/channels/application_cable/connection.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/channels/application_cable/connection.rb": {
         "lines": [
           0,
           0,
@@ -191,7 +21,7 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/controllers/api/v1/admin_controller.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/controllers/api/v1/admin_controller.rb": {
         "lines": [
           0,
           0,
@@ -276,7 +106,7 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/controllers/api/v1/auth_controller.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/controllers/api/v1/auth_controller.rb": {
         "lines": [
           0,
           0,
@@ -413,7 +243,7 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/controllers/api/v1/cryptos_controller.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/controllers/api/v1/cryptos_controller.rb": {
         "lines": [
           0,
           0,
@@ -432,7 +262,7 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/controllers/api/v1/funds_transfers_controller.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/controllers/api/v1/funds_transfers_controller.rb": {
         "lines": [
           0,
           0,
@@ -485,7 +315,7 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/controllers/api/v1/transactions_controller.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/controllers/api/v1/transactions_controller.rb": {
         "lines": [
           0,
           0,
@@ -538,7 +368,7 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/controllers/api/v1/users_controller.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/controllers/api/v1/users_controller.rb": {
         "lines": [
           0,
           0,
@@ -655,7 +485,7 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/controllers/application_controller.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/controllers/application_controller.rb": {
         "lines": [
           0,
           null,
@@ -708,7 +538,7 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/helpers/application_helper.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/helpers/application_helper.rb": {
         "lines": [
           0,
           0
@@ -716,7 +546,7 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/jobs/application_job.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/jobs/application_job.rb": {
         "lines": [
           0,
           null,
@@ -729,29 +559,8 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/mailers/application_mailer.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/mailers/application_mailer.rb": {
         "lines": [
-          0,
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/models/application_record.rb": {
-        "lines": [
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/models/crypto.rb": {
-        "lines": [
-          0,
-          0,
           0,
           0,
           0,
@@ -760,7 +569,28 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/models/funds_transfer.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/models/application_record.rb": {
+        "lines": [
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/models/crypto.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/models/funds_transfer.rb": {
         "lines": [
           0,
           0,
@@ -773,7 +603,17 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/models/transaction/handler.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/models/role.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/models/transaction/handler.rb": {
         "lines": [
           0,
           0,
@@ -835,7 +675,7 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/models/transaction.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/models/transaction.rb": {
         "lines": [
           0,
           0,
@@ -850,7 +690,165 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/models/user_crypto.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/models/user/authentication.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/models/user.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/models/user_crypto.rb": {
         "lines": [
           0,
           0,
@@ -865,7 +863,17 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/serializers/crypto_serializer.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/models/user_role.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/serializers/crypto_serializer.rb": {
         "lines": [
           0,
           0,
@@ -886,7 +894,7 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/serializers/funds_transfer_serializer.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/serializers/funds_transfer_serializer.rb": {
         "lines": [
           0,
           0,
@@ -903,7 +911,7 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/serializers/transaction_serializer.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/serializers/transaction_serializer.rb": {
         "lines": [
           0,
           0,
@@ -926,7 +934,7 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/serializers/user_serializer.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/serializers/user_serializer.rb": {
         "lines": [
           0,
           0,
@@ -936,7 +944,7 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/services/jwt_token.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/services/jwt_token.rb": {
         "lines": [
           0,
           0,
@@ -973,7 +981,7 @@
         "branches": {
         }
       },
-      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app/trading_app_api/app/services/twilio/sms_service.rb": {
+      "/mnt/c/Users/User/Documents/GitHub/Projects/trading_app_api/app/services/twilio/sms_service.rb": {
         "lines": [
           0,
           0,
@@ -1018,6 +1026,6 @@
         }
       }
     },
-    "timestamp": 1683812494
+    "timestamp": 1683815164
   }
 }
