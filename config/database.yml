@@ -47,19 +47,24 @@
 default: &default
   adapter: postgresql
   encoding: unicode
-  host: dpg-checc33hp8ubgo7dpt1g-a.singapore-postgres.render.com
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
-  username: coinswift_user
-  password: SU3AJDbEgV4R9hqsoFbLeqrX65Mh0IEf
 
 development:
   <<: *default
+  host: dpg-checc33hp8ubgo7dpt1g-a.singapore-postgres.render.com
+  username: coinswift_user
+  password: SU3AJDbEgV4R9hqsoFbLeqrX65Mh0IEf
   database: coinswift
 
 test:
   <<: *default
+  host: dpg-checc33hp8ubgo7dpt1g-a.singapore-postgres.render.com
+  username: coinswift_user
+  password: SU3AJDbEgV4R9hqsoFbLeqrX65Mh0IEf
+  
   database: coinswift_test_server2
 
 production:
+ production:
   <<: *default
-  database: coinswift_prod_server
+  url: <%= ENV['DATABASE_URL'] %>
